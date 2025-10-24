@@ -24,7 +24,7 @@ const perguntas = [
       "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
       "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendo a importância de proteger os trabalhadores.",
     ],
-  },
+  },.
   {
     enunciado:
       "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
